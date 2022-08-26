@@ -10,6 +10,7 @@ export default function Home () {
             <h1>Check out our wide array of packages and offers!</h1>
 
         </div>
+        
     )
 
 }
